@@ -1,0 +1,1122 @@
+Eng Displ,# Cyl,Comb Unadj FE - Conventional Fuel,# Gears,Max Ethanol % - Gasoline,Intake Valves Per Cyl,Exhaust Valves Per Cyl,Var Valve Lift?,Fuel Metering Sys Desc,Stop/Start System (Engine Management System)  Description,Air Aspiration Method Desc,Label Recalc?
+3.5,6,29.3561,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.8,4,34.4702,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+6.0,12,18.1901,7,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+6.0,12,15.415,7,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.2,10,21.0869,7,15.0,2,2,Y,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+5.2,10,21.0869,7,15.0,2,2,Y,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.0,4,33.4616,6,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+6.2,8,20.4957,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Supercharged,N
+6.2,8,24.0284,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.2,8,22.6242,7,10.0,1,1,N,Spark Ignition Direct Injection,No,Supercharged,N
+6.2,8,24.7128,7,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.9,8,23.1248,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.9,8,22.866,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.9,8,23.1248,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.9,8,22.866,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+6.3,12,16.7215,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.3,12,17.0002,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+6.3,12,16.0763,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+6.3,12,15.7502,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.3,12,16.4907,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.5,6,17.2424,7,15.0,2,2,N,Spark Ignition direct & ported injection,No,Turbocharged,N
+3.0,6,29.8689,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,24.1231,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,29.8689,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,24.1231,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+5.0,8,22.5528,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+5.0,8,22.5528,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,27.2521,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,27.2521,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,28.6391,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,23.566999999999997,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,28.6391,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,23.566999999999997,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+6.5,12,16.2581,7,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+6.5,12,14.9352,7,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+6.5,12,15.6403,7,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+6.5,12,14.9352,7,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+5.2,10,20.6362,7,15.0,2,2,Y,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+5.2,10,20.6362,7,15.0,2,2,Y,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+5.2,10,20.2436,7,15.0,2,2,Y,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+5.2,10,20.2436,7,15.0,2,2,Y,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.0,4,39.8199,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,40.1166,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.8,8,23.8458,7,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+3.8,8,23.8458,7,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+4.0,8,23.737,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.0,8,23.737,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+5.5,8,23.9504,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+6.0,12,20.8052,7,10.0,2,1,N,Multipoint/sequential fuel injection,Yes,Turbocharged,N
+3.0,6,30.8627,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.7,8,26.0491,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.900999999999996,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+0.9,3,47.7066,5,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+0.9,3,50.1999,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,Y
+3.7,6,28.378,7,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.7,6,27.2488,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.7,6,26.8124,7,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.7,6,25.9025,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,33.3477,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,31.8129,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.5,4,31.5404,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.5,4,28.9412,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+5.2,12,22.8444,8,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+6.0,12,20.4316,8,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.9,8,24.046999999999997,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.9,8,23.5433,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+6.3,12,16.97,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+1.4,4,40.022,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,25.0504,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Supercharged,N
+3.5,6,23.961,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Supercharged,N
+2.0,4,36.2759,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,33.7414,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.5,3,40.9592,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,43.1375,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,38.0851,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.2009,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,33.1487,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,30.5533,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,32.4871,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.854,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.7473,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.3892,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.1178,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,27.9005,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,28.868000000000002,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,27.5387,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.426,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.68,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.6194,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.3392,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,32.1894,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,30.0331,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.7936,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,27.5286,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.0593,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,27.8536,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,32.3386,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.903000000000002,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,32.0454,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.7799,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.9712,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.3892,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,28.688000000000002,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,26.908,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.1907,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.3392,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.8,6,27.0436,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.8,6,26.9406,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.8,6,27.0436,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.8,6,26.9406,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.92,6,10.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.0,4,31.9159,6,10.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.0,4,36.1919,6,10.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.0,4,31.3545,6,10.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+6.0,12,21.3382,8,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,38.7033,7,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,38.0198,7,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,31.9996,6,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.3562,6,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,31.4377,8,85.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,32.3011,8,85.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,Y
+2.0,4,33.7397,6,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.5,5,28.4436,7,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,30.3673,6,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,26.9372,7,15.0,2,2,Y,Spark Ignition Direct Injection,No,Supercharged,N
+3.0,6,24.4063,6,15.0,2,2,Y,Spark Ignition Direct Injection,No,Supercharged,N
+3.0,6,26.4165,7,15.0,2,2,Y,Spark Ignition Direct Injection,No,Supercharged,N
+2.0,4,33.4616,6,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,31.9024,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+4.0,8,21.7662,8,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+6.0,12,18.1658,8,15.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+6.0,12,16.487000000000002,8,15.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+2.0,4,36.5536,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,37.3822,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,32.7108,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.3177,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.6485,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.5536,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.3106,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.430999999999997,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.2584,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,30.8026,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.6571,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.3468,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.3468,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,25.1219,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,25.1219,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,23.6104,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,24.5187,8,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,29.5465,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,26.988000000000003,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,33.2211,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.6872,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,33.2211,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,28.8827,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,32.8946,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,32.8946,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,25.1945,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,26.1317,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,20.4936,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,21.9503,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,20.4936,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,21.9503,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.6,4,29.6672,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,33.0074,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,30.6567,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.6,6,29.3148,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,25.5429,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.2,8,18.7422,10,10.0,1,1,N,Spark Ignition Direct Injection,No,Supercharged,N
+6.2,8,26.1927,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.2,8,20.3223,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Supercharged,N
+6.2,8,24.910999999999998,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.4,4,45.6471,1,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.4,4,45.1098,5,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.4,4,45.6471,1,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.4,4,45.1098,5,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.6,4,42.4567,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.6,4,41.3015,5,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.0,3,48.2863,5,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.3,4,32.6823,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.3,4,33.2406,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.7,6,28.2073,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.7,6,27.0362,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.0,8,24.2832,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.0,8,23.5418,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.3,4,30.9447,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.3,4,33.2406,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+5.0,8,23.3121,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.0,8,23.5418,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.3,4,32.6823,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.3,4,33.2406,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+5.0,8,23.5418,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.2,8,20.6769,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.0,6,29.5309,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,28.7775,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,27.9569,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,29.4436,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,34.2582,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Turbocharged,N
+3.5,6,27.925,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,29.0058,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,27.925,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+5.0,8,25.3158,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+4.7,8,19.9146,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+4.7,8,19.7608,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+4.0,8,24.566,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,Y
+4.0,8,25.2094,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.0,8,24.566,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,Y
+4.0,8,25.2094,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+5.5,8,21.9735,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.5447,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.0414,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,32.6503,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,33.3995,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,30.9081,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.7,8,26.8613,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+6.0,12,19.8134,7,10.0,2,1,N,Multipoint/sequential fuel injection,Yes,Turbocharged,N
+6.0,12,20.4297,7,10.0,2,1,N,Multipoint/sequential fuel injection,Yes,Turbocharged,N
+2.0,4,37.9591,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,35.2009,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,40.9592,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,43.0468,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,40.9592,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,43.1375,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,37.9591,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,35.2009,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,37.9591,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,35.2009,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+5.0,8,21.3996,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Supercharged,N
+5.0,8,19.7975,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Supercharged,N
+1.5,4,49.3802,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.5,4,47.5578,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.8,4,36.9629,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.8,4,35.8552,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,38.7615,8,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,33.1457,9,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+2.4,4,38.3003,8,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,34.7393,9,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,37.3079,7,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.2361,7,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.8787,6,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,41.0931,7,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,29.9555,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,29.5284,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+4.0,8,23.6806,8,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+6.0,12,19.3741,8,15.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+6.0,12,17.2195,8,15.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+2.0,4,36.9057,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.5176,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.8795,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.5536,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,32.7108,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.3177,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,33.2211,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.6872,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,32.8946,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.7343,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.5536,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,33.568000000000005,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.5536,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.3177,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.3177,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,33.2211,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.6872,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,33.2211,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,32.8946,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.7343,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,32.8946,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,30.8026,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.3468,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,25.1219,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,23.6104,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,23.6104,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,25.0855,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,26.1317,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,25.0855,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,26.1317,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,20.4936,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,21.9503,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.4,4,32.2322,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,33.7799,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,30.7024,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.5,4,33.9408,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,31.1873,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+2.0,4,32.7935,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.6,6,29.2127,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,25.6914,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.6,6,24.1931,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.4,4,46.1513,6,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.4,4,44.3586,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.4,4,46.1513,6,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.4,4,40.8578,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+1.4,4,43.2941,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+1.8,4,37.6361,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,38.4,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.6,4,39.0203,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.0,3,42.6908,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.0,3,46.512,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,41.773,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,39.5463,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,38.0244,5,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,41.773,6,85.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,39.5463,6,85.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,38.0244,5,85.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.5,4,47.2696,1,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,4,45.8096,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,46.4432,1,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,41.2808,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.5,4,43.2552,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.6,4,40.7375,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,42.3983,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,42.4981,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,38.8602,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.6,4,40.064,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,37.6194,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,39.1673,7,10.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+3.5,6,37.3977,7,10.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+2.0,4,31.7713,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.7079,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,30.4619,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+1.6,4,36.6729,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.6,4,34.2677,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,37.7231,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,40.9942,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,41.5766,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,41.744,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+1.8,4,57.4981,1,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+5.0,8,23.8378,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.0,4,34.2582,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Turbocharged,N
+3.5,6,27.925,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,29.0058,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,27.925,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.0,4,42.4765,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,38.8168,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.5,4,48.803000000000004,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.5,4,47.1396,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,43.1916,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,42.5545,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,42.477,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,41.045,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,38.5177,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+4.0,8,26.886,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.0,8,26.2333,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.2607,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+5.5,8,23.1471,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+5.5,8,23.3803,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,37.4264,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.7394,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,38.5009,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.5131,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.5131,7,85.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.7,8,27.3664,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.7,8,26.096,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+6.0,12,20.1932,7,10.0,2,1,N,Multipoint/sequential fuel injection,Yes,Turbocharged,N
+2.0,4,40.671,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,37.1059,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,34.0328,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.2,3,55.7169,1,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.2,3,50.605,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.2,3,52.5595,1,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.2,3,49.451,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+6.6,12,17.8786,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+6.7,12,17.4989,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.7,12,17.4353,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,26.8422,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,30.324,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.5,4,25.1277,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+1.5,4,66.6561,1,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+1.5,4,43.7586,4,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.5,4,44.9633,5,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,36.9629,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,34.1182,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.8,4,35.8552,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,32.2717,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.6,6,24.8373,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.8,4,38.8661,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.8,4,39.3042,5,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,32.6193,6,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,31.1626,6,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,35.4256,6,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,35.2045,6,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.4,4,43.1538,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.4,4,44.8007,5,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.8,4,38.6569,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,36.4041,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,34.7474,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,34.4294,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.1949,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged+Supercharged,N
+2.0,4,33.1906,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,39.6651,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.4294,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,39.6651,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,30.0235,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged+Supercharged,N
+3.5,6,40.8486,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.5,6,30.8483,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,36.1059,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.9,6,25.6124,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.035,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,37.528,7,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,33.247,8,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.108,8,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,31.108,8,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Supercharged,N
+4.0,8,22.5584,8,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+4.0,8,26.843000000000004,7,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.0,8,26.7724,7,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.0,8,22.5368,8,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+4.0,8,21.7662,8,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+6.0,12,18.1658,8,15.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+6.8,8,17.1546,8,15.0,1,1,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+6.8,8,16.0981,8,15.0,1,1,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+2.0,4,36.7545,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.5618,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.2429,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,30.948,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.6,6,32.7042,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,30.963,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+2.0,4,31.3542,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,30.3641,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,28.9774,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,32.8412,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.6,6,31.1873,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,23.8404,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,32.7935,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.6,6,29.2127,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+6.2,8,21.5034,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Supercharged,N
+1.4,4,46.1513,6,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.4,4,44.3586,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.4,4,46.1513,6,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.5,4,41.1333,6,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.8,4,64.5035,1,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+2.0,4,34.498000000000005,9,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,36.5912,9,85.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,36.5912,9,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,30.168000000000003,9,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,28.5513,9,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,29.8923,8,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,24.6535,8,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,23.1399,6,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,27.9923,8,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+6.2,8,20.0858,8,10.0,1,1,N,Multipoint/sequential fuel injection,No,Supercharged,N
+6.2,8,19.7548,6,10.0,1,1,N,Multipoint/sequential fuel injection,No,Supercharged,N
+2.3,4,28.3168,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.1012,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,30.3467,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.7,6,26.9673,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,4,36.2757,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,32.5269,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.5,4,32.5952,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,61.1942,1,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+2.0,4,69.9604,1,10.0,2,2,Y,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+2.4,4,41.1259,1,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.4,4,39.4569,7,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.4,4,35.363,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,33.7106,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,32.3693,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,28.0575,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.5,4,48.4152,1,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,4,46.3319,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,47.0376,1,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,41.9504,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.5,4,43.2552,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.4,4,47.7599,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.6,4,38.1647,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.6,4,33.2406,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,43.0762,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,39.8338,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,36.2351,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,36.2437,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,44.7924,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,56.2803,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+2.0,4,58.137,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+2.0,4,35.1555,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,30.061,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,33.4391,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,28.6255,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,29.4319,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,28.3804,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+5.6,8,24.8658,7,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.6,8,23.5739,7,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,41.051,7,10.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+3.0,6,30.8134,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,29.8142,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+2.0,4,43.8575,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,37.9773,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,38.4204,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,57.6115,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+2.5,4,55.2009,6,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+3.5,6,31.9261,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,34.2582,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Turbocharged,N
+2.0,4,31.7452,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Turbocharged,N
+3.5,6,29.9888,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,28.2575,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,28.5768,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,41.6347,8,15.0,2,2,N,Spark Ignition direct & ported injection,Yes,Naturally Aspirated,N
+4.6,8,24.7961,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+4.6,8,23.5638,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+4.6,8,24.7961,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+4.6,8,23.5638,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.0,4,30.3467,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,25.8924,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,32.5269,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,27.2566,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,61.1942,1,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+3.0,6,24.4714,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,25.0783,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,24.1704,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,42.6978,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,42.0744,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,40.8857,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,41.2725,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,37.4496,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,39.3583,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,40.4349,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,37.7774,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,34.89,8,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,31.9961,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,37.5265,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,37.5834,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.5,3,34.5648,8,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,34.1672,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,37.2651,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,37.1637,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.5,3,33.9714,8,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,3,34.1672,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,36.0232,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,33.7414,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.0768,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,31.910999999999998,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.4998,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.0236,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,32.2282,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.5,4,43.9438,1,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,34.7326,7,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,42.9196,7,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,43.9838,1,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,40.4893,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+6.6,12,18.611,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,43.0758,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,35.785,5,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,41.4234,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,35.0701,5,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,38.4744,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,30.070999999999998,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,31.8364,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,55.2009,6,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+2.5,4,36.6179,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,32.1934,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,57.4438,1,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+2.5,4,54.7689,1,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+1.8,4,43.1256,1,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,42.4265,7,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,41.4115,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,42.6986,7,15.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,40.3735,6,15.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,44.8909,1,15.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,47.038000000000004,1,15.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,73.5533,1,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+1.8,4,80.8472,1,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+1.8,4,36.1861,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.6,6,28.5088,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,33.2927,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged+Supercharged,N
+2.0,4,36.1613,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,28.8162,8,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Supercharged,N
+4.0,8,27.6266,8,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.3177,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.2584,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,28.8255,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,27.811999999999998,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,23.6104,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,31.430999999999997,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,29.2469,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,26.2037,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,25.0691,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,23.7423,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+6.6,12,19.9689,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.1208,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,33.6611,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,32.8412,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,27.3539,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.6,6,27.886999999999997,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,28.1327,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,23.7078,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.6,6,26.3649,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,32.5655,6,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,28.9863,6,85.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,28.4739,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,29.8923,8,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,29.8923,8,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,24.6535,8,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,27.9923,8,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,27.9923,8,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,29.8923,8,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,29.8923,8,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,24.6535,8,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,27.9923,8,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,27.9923,8,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+6.2,8,20.0858,8,10.0,1,1,N,Multipoint/sequential fuel injection,No,Supercharged,N
+2.0,4,57.2225,1,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+3.5,6,25.6832,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,25.5194,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,25.6832,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,32.5269,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,29.1837,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,29.1837,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.8,6,25.0911,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.8,6,28.1856,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.0,8,22.6895,8,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.3,6,25.7879,8,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+5.0,8,23.3566,8,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.3,6,25.6053,8,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+5.0,8,23.9701,8,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.5,4,47.2936,1,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,4,43.603,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,31.6813,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,4,44.3546,7,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+1.5,4,43.603,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+3.3,6,30.0156,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.3,6,29.0083,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,73.4989,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+1.6,4,77.1931,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+1.6,4,42.4116,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,34.184,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,39.4874,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,32.4015,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,38.2167,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.0,6,27.9589,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+5.0,8,22.7512,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,25.9443,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,27.723000000000003,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+5.0,8,22.7512,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,25.6229,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.3,6,30.3314,8,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,36.1741,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.6,4,33.7372,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,37.9659,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.8,6,25.9414,8,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.0,8,22.6122,8,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,42.8024,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,33.1287,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,37.4602,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.4,4,39.0988,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.7,6,25.4911,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,24.649,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.7,6,24.686999999999998,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.7,6,27.4705,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.7,6,26.2121,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.8,8,22.023000000000003,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,23.7396,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,23.6588,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+5.5,8,22.9319,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+6.0,12,20.3341,7,10.0,2,1,N,Multipoint/sequential fuel injection,Yes,Turbocharged,N
+6.0,12,19.7607,7,10.0,2,1,N,Multipoint/sequential fuel injection,Yes,Turbocharged,N
+4.7,8,26.803,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.7,8,25.3359,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.7,8,24.8083,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+6.0,12,20.296,7,10.0,2,1,N,Multipoint/sequential fuel injection,Yes,Turbocharged,N
+3.0,6,31.7288,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,30.8911,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,30.8911,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.9,6,30.9273,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.9,6,30.9273,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.0,8,27.4365,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.0,8,27.4365,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+6.6,12,17.8786,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+6.6,12,17.8786,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+6.7,12,17.4989,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.7,12,17.4353,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,33.9306,7,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,35.3177,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.4,4,40.8578,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+1.4,4,43.2941,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+1.8,4,37.6361,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,38.4,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.4,4,33.1552,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Turbocharged,N
+1.5,4,50.1953,1,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.5,4,47.1939,7,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.5,4,43.1493,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.8,4,38.8882,1,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,38.8882,7,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,41.7113,1,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,41.7113,7,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,37.8655,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.7,6,25.9717,7,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.7,6,25.5795,7,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.6,4,64.2204,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+1.6,4,67.2852,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+1.6,4,59.2693,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+1.6,4,37.4285,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.6,4,36.3031,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,35.7385,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,35.9771,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,39.335,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,38.321999999999996,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,42.9731,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,35.352,5,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,41.1536,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,33.6471,5,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.8,4,32.6617,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.8,4,32.2682,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.8,4,38.567,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.8,4,38.0792,5,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.8,4,32.6617,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.8,4,32.2682,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,34.4294,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.1949,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged+Supercharged,N
+2.0,4,33.1906,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,39.6651,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,30.0235,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged+Supercharged,N
+2.0,4,32.5902,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,28.0391,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,36.7994,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.5,6,31.6478,7,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,32.1762,7,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.8,4,58.8281,1,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+2.0,4,33.1552,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged+Supercharged,N
+2.5,4,28.82,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,28.4429,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,26.2857,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,28.82,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,28.4429,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,26.2857,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,28.1939,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+4.0,6,24.0673,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+4.0,6,24.0,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+4.0,6,23.3292,5,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.7,4,27.3647,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,26.9715,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.5,4,27.2579,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,25.0815,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,22.2857,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,27.2579,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,25.0815,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+4.0,6,22.0966,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+4.0,6,22.6036,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+4.0,6,22.051,5,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.7,4,26.2321,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.7,4,26.7125,5,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,26.0517,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,24.0,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,23.8035,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+4.3,6,25.8475,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.2068,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.9936,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.0927,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,25.8824,8,10.0,1,1,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+6.2,8,22.3814,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.7,6,28.361,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.7,6,28.4028,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.5,6,27.5406,10,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.5,6,27.1626,10,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.7,6,28.375999999999998,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.5,6,27.173000000000002,10,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.5,6,26.4655,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+4.3,6,25.8327,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.2077,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.0568,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.0927,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,25.8824,8,10.0,1,1,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+6.2,8,22.3373,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,25.6217,8,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,22.3584,8,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.0,8,16.9305,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Supercharged,N
+4.6,8,21.3053,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,19.1855,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,19.5566,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+4.3,6,24.3844,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.1622,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.3088,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,21.4327,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.5269,8,10.0,1,1,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+6.2,8,21.5215,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.7,6,25.5444,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.5,6,25.4469,10,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.7,6,25.6478,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.5,6,25.4612,10,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.7,6,25.6019,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.5,6,25.4592,10,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.5,6,24.8611,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,20.8606,10,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.3,6,24.3375,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.2063,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.2952,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,21.4233,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.5269,8,10.0,1,1,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+6.2,8,21.5215,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,27.1795,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.6,8,21.8199,7,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,24.215999999999998,8,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.0,8,16.9305,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Supercharged,N
+4.6,8,20.3055,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,18.6267,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,18.8156,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+6.0,8,15.9434,6,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+6.0,8,15.6676,6,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,20.7037,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.7,6,19.9982,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+6.0,8,15.9434,6,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+6.0,8,15.6543,6,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,21.7336,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,21.7336,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,34.9238,1,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,29.7262,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,29.7744,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,29.1356,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,28.5872,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,28.6186,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,28.5872,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,30.2309,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,29.3634,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.9238,1,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.7,6,24.7683,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.3,8,24.098000000000003,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,20.656999999999996,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.0686,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.098000000000003,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,20.656999999999996,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.0686,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,29.1809,9,10.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+3.6,6,29.0899,9,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,25.9349,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,28.9732,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.3,6,26.3588,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.3,6,26.9606,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.3,6,24.3943,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,28.5373,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,26.2333,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,30.070999999999998,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,31.2523,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.4,4,40.5188,6,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.4,4,38.1227,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+2.5,4,33.1932,6,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,29.3402,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+2.4,4,34.0888,6,85.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.4,4,34.0888,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,25.3395,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.4,4,38.1227,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+2.4,4,27.6702,4,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,25.256999999999998,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.4,4,37.529,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Turbocharged,N
+2.4,4,33.4779,9,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,33.093,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,31.2682,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,26.6174,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.5,4,34.656,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,33.093,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.5,4,31.9863,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,31.9863,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,34.0888,6,85.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.4,4,34.0888,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,25.3395,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.5,4,41.3735,1,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,38.2821,1,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,29.3963,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,29.9106,9,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.3,6,27.2534,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,30.4698,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,31.2071,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,29.8268,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.3,6,25.9196,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,38.3493,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.6,4,36.1046,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,34.7953,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.7,6,25.2918,7,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,32.6673,9,85.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,32.6673,9,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.2,6,31.1365,9,10.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+2.0,4,33.8583,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,33.8041,6,10.0,2,2,Y,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+2.4,4,34.9126,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,33.8583,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,33.0335,9,85.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,29.861,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,31.3911,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.3,6,26.7196,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.4,4,34.0252,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,30.7401,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,33.2001,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,32.6621,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Turbocharged,N
+3.5,6,29.7864,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.0,4,33.093,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.7,6,27.4705,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.7,6,26.2029,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,36.6085,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,32.5095,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,32.2641,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.4,4,36.1902,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,35.8215,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,33.5991,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,33.3705,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,38.8998,1,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.7,4,30.0963,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,30.1043,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,30.7699,8,15.0,2,2,N,Spark Ignition direct & ported injection,Yes,Naturally Aspirated,N
+2.5,4,33.9441,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,34.9149,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,28.7371,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,34.1176,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,36.2051,7,10.0,2,2,Y,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+3.5,6,28.7377,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,29.5548,8,85.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,27.2096,8,15.0,2,2,Y,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,24.9252,8,15.0,2,2,Y,Spark Ignition Direct Injection,No,Supercharged,N
+2.0,4,31.2523,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,27.857,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,27.857,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,29.8011,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+1.4,4,38.2094,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+1.4,4,35.6641,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+2.0,4,29.1624,6,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.5,4,31.4369,6,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,27.6261,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+2.4,4,30.7928,6,85.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.4,4,30.7928,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,23.4542,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.4,4,35.6641,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+3.6,6,24.4714,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,32.2297,9,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,29.6971,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.7,6,25.4228,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,25.2405,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+1.5,4,32.376999999999995,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,30.3941,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.4,4,30.7928,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,23.4542,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.5,4,39.893,1,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,36.2056,1,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,27.6395,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,29.1272,9,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.3,6,26.9909,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,28.754,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,28.9333,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,27.5571,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.3,6,24.9197,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,33.8504,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,30.6586,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+1.6,4,36.265,7,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.7,6,23.708000000000002,7,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.0,6,25.9024,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+2.4,4,31.0576,9,85.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,31.0576,9,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,30.4846,9,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,28.3382,9,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,33.0335,9,10.0,2,2,Y,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+2.4,4,33.2484,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,31.6705,9,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,23.9231,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,23.9236,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,22.7455,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,22.7871,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,28.4345,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,29.5908,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.3,6,24.9505,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.3,6,26.8575,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,28.646,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.4,4,29.7862,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.4,4,29.4798,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,28.8083,9,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,31.7256,9,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,29.6067,9,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,32.302,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Turbocharged,N
+2.0,4,31.4205,6,15.0,2,2,N,Spark Ignition direct & ported injection,No,Turbocharged,N
+2.5,4,43.5111,6,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+3.5,6,28.6587,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+2.0,4,30.3941,6,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,28.1992,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.3,4,26.7924,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.7,6,25.4228,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.7,6,24.349,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,34.3855,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.5,4,29.9233,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,26.305999999999997,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.2767,7,85.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,34.2767,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,31.2766,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,31.4849,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.4,4,34.8656,6,10.0,2,2,Y,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,34.1212,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.4,4,32.6552,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,36.7448,1,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,29.3544,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,24.9355,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,25.1,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.6,6,24.7122,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.6,6,24.8966,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,38.5928,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,34.2039,5,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,33.001,8,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.5,4,37.9874,1,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,32.0574,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,37.4345,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,29.3442,6,10.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,32.8549,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,44.736000000000004,6,15.0,2,2,N,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+2.5,4,32.266999999999996,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,27.8252,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,30.5171,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,29.5605,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged+Supercharged,N
+3.0,6,27.1641,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,27.1641,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.6,6,22.5529,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.2,8,22.3314,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.098000000000003,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.098000000000003,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.098000000000003,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.098000000000003,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,22.5529,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,28.1137,8,10.0,2,2,Y,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+5.7,8,21.701999999999998,8,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,22.6236,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,21.3196,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,25.4694,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.3,4,28.5125,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,25.4694,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,26.1272,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,31.5448,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,27.1747,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,22.5529,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.098000000000003,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.098000000000003,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.2,8,22.3314,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.098000000000003,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,24.098000000000003,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.2,8,22.3314,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,28.1137,8,10.0,2,2,Y,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+3.7,6,25.6842,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,22.6236,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,21.3281,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,26.4254,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.6,8,20.9197,7,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+4.0,6,24.4807,5,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,18.9207,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.0,4,32.9334,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,29.9189,8,15.0,2,2,Y,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,27.6332,8,15.0,2,2,Y,Spark Ignition direct & ported injection,Yes,Supercharged,N
+6.0,12,18.3763,8,15.0,2,2,Y,Spark Ignition direct & ported injection,No,Turbocharged,N
+4.4,8,20.7274,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,26.6137,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,22.1406,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,20.7274,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,26.6137,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.4,8,22.1406,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.6,6,22.0571,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.2,8,21.3784,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,22.8429,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,22.8429,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.0686,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.0686,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,22.0571,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,27.171999999999997,8,10.0,2,2,Y,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+5.7,8,21.7207,8,10.0,1,1,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,21.2798,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,21.0228,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.3,4,26.9657,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,23.7157,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,24.1401,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,24.1401,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,23.7157,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,24.1401,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+2.5,4,30.5512,6,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,26.5472,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,22.0571,6,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.0686,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,23.0686,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.2,8,21.5215,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,22.8429,6,85.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.3,8,22.8429,6,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+6.2,8,21.2378,8,10.0,1,1,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+5.6,8,19.9445,7,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,27.171999999999997,8,10.0,2,2,Y,Multipoint/sequential fuel injection,Yes,Naturally Aspirated,N
+3.0,6,22.9079,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,24.6108,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+5.0,8,20.0593,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+5.0,8,20.0593,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+3.0,6,24.6108,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+5.0,8,20.656999999999996,8,15.0,2,2,N,Spark Ignition Direct Injection,Yes,Supercharged,N
+4.6,8,21.2524,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,19.0266,8,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,40.8577,6,15.0,2,2,N,Spark Ignition direct & ported injection,Yes,Naturally Aspirated,N
+3.5,6,23.7157,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,21.2798,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,20.9218,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+5.5,8,17.0498,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+6.0,12,15.0373,7,10.0,2,1,N,Multipoint/sequential fuel injection,No,Turbocharged,N
+3.0,6,25.3661,9,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.0,6,25.4318,9,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+5.5,8,19.7604,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+5.5,8,19.7604,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+5.5,8,19.5774,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+5.5,8,19.1822,7,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.0,8,17.7814,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+4.0,8,14.2363,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,25.263,7,85.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.5,6,25.263,7,10.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.0,6,26.1019,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.0,6,24.0954,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.7,8,20.48,9,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+5.6,8,19.6171,7,10.0,2,2,Y,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+3.6,6,26.712,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,24.1148,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+3.6,6,25.3562,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Naturally Aspirated,N
+3.6,6,25.4694,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.8,8,21.3254,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.8,8,21.3254,8,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+4.0,6,23.8678,5,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+4.0,6,23.8678,5,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.5,6,29.2313,8,15.0,2,2,N,Spark Ignition direct & ported injection,Yes,Naturally Aspirated,N
+3.5,6,29.0284,8,15.0,2,2,N,Spark Ignition direct & ported injection,No,Naturally Aspirated,N
+3.5,6,29.9025,8,15.0,2,2,N,Spark Ignition direct & ported injection,Yes,Naturally Aspirated,N
+3.5,6,39.7272,6,15.0,2,2,N,Spark Ignition direct & ported injection,Yes,Naturally Aspirated,N
+3.5,6,40.3421,6,15.0,2,2,N,Spark Ignition direct & ported injection,Yes,Naturally Aspirated,N
+5.7,8,19.0648,8,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,18.3369,6,15.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+5.7,8,18.622,6,85.0,2,2,N,Multipoint/sequential fuel injection,No,Naturally Aspirated,N
+3.6,6,24.9612,8,15.0,2,2,N,Spark Ignition Direct Injection,No,Naturally Aspirated,N
+2.0,4,31.7073,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,29.7405,8,10.0,2,2,N,Spark Ignition Direct Injection,Yes,Turbocharged+Supercharged,N
+3.5,6,21.4554,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+3.5,6,20.4407,6,15.0,2,2,N,Spark Ignition Direct Injection,No,Turbocharged,N
+2.0,4,33.3477,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.0,4,31.8129,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.5,4,31.5404,7,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
+2.5,4,28.9412,6,10.0,2,2,Y,Spark Ignition Direct Injection,Yes,Turbocharged,N
